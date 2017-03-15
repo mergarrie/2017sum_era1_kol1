@@ -21,3 +21,16 @@
 #
 #Delete these comments before commit!
 #Good luck.
+
+matrix1 =[[0 for x in range(2)] for y in range(2)]
+
+def matrix_sum(matrix1, matrix2)
+
+	int suma
+
+	for i in range[0:2]:
+		for j in range[0:2]:
+		suma[i][j] = matrix1[i][j]+ matrix2[i][j]
+
+	return suma
+
